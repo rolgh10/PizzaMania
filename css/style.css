@@ -1,0 +1,26 @@
+.homenav {
+    background-color: red;
+}
+
+.homenav .navbar-nav>li>a {
+    color: white;
+}
+
+.heroimages {
+    height: 550px;
+}
+
+.about-pizza {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+h5 {
+    color: red;
+}
+
+.nicefooter {
+    background-color: red;
+    color: white;
+    padding: 1rem 0rem;
+}
